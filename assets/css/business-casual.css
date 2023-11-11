@@ -190,3 +190,17 @@ footer p {
         clear: both;
     }
 }
+
+/* Additional styles */
+.business-front-page .fw-row {
+    margin-bottom: 20px;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+.fw-divider-line ~ h2 {
+    text-transform: uppercase;
+    font-size: 1.25em;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
