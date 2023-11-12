@@ -213,3 +213,8 @@ footer p {
     background-color: #fff;
     border-color: #ccc;
 }
+
+.blog .box:first-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
