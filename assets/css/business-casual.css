@@ -192,7 +192,8 @@ footer p {
 }
 
 /* Additional styles */
-.business-front-page .fw-row {
+.business-front-page .fw-row,
+.business-page .fw-container {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fff;
